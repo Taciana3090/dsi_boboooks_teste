@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536652804286",
+    "project_id": "dsi-bobooks-f0a76",
+    "storage_bucket": "dsi-bobooks-f0a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536652804286:android:328ec0c58a6921a275aeef",
+        "android_client_info": {
+          "package_name": "com.example.dsi_bobooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536652804286-dr38d9md14f7cjp5mj5pgoc2a96ci5vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_XM87Riw8xZVMyHB-DUR0MK9KBkA0MY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536652804286-dr38d9md14f7cjp5mj5pgoc2a96ci5vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536652804286-8mnnpdlh1nqtaaravf19hlem6s2sni2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dsiBobooks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
